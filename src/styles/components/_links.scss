@@ -1,0 +1,18 @@
+
+.link {
+    
+    padding: 10px;
+    color: $dark-grey;
+    text-decoration: none;
+    letter-spacing: 0.2px;
+
+
+    .new-account, .already-registered  {
+        color: $dark-grey;
+
+        &:hover {
+            color: $primary;
+        }
+    }
+
+}
